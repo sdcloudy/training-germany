@@ -42,7 +42,7 @@ Most open source projects are hosted and collaborated on here.
 
 #Clone A Repo
 
-`git clone https://github.com/jonasrosland/training-repo.git`
+`git clone https://github.com/vchrisb/training.git`
 
 Now, explore that repo folder:
 
