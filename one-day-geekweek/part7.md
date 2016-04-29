@@ -3,7 +3,7 @@
 ---
 
 * DevOps Transformation Services
-  * talk to Bart Driscoll
+  * talk to Christophe Lombard
   
 ---
 
