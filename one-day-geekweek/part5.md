@@ -31,7 +31,7 @@ Most open source projects are hosted and collaborated on here.
 
 > If you're not on GitHub you don't exist.
 -- Friendly developer
-How to: http://rogerdudler.github.io/git-guide/
+< How to: http://rogerdudler.github.io/git-guide/
 ---
 
 #Using Git
