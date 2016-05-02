@@ -22,7 +22,9 @@ aka: stop handwaving!
 
 ---
 
-# The 12 factor App
+# [The 12 factor App](http://12factor.net/)
+
+http://12factor.net/
 
 ---
 
