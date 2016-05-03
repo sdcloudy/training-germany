@@ -117,8 +117,8 @@ http://rogerdudler.github.io/git-guide/
 
 * `checkout`
 * `clone`
-* `* status`
-* `* diff`
-* `* commit`
-* `* log`
-* `* blame`
+* `status`
+* `diff`
+* `commit`
+* `log`
+* `blame`
