@@ -264,3 +264,11 @@ He or she has no management authority within the team and may never commit to wo
   * What I did yesterday
   * What I plan to do today
   * Anything preventing me from doing that (blockers)
+
+---
+
+# TED Talk
+
+## Agile Programming for Your Family
+
+https://www.ted.com/talks/bruce_feiler_agile_programming_for_your_family?language=en
