@@ -54,13 +54,13 @@ A Cloud Native Platform for people who want to get stuff done.
 
 ---
 
-* Clone this repo: `git clone https://github.com/mcowger/hello-python.git`
+* Clone this repo: ` git clone https://github.com/vchrisb/cf-HelloWorld.git`
 * Login to `cf`: `cf login`
   * target `api.run.pivotal.io`
   * This is Pivotal Web Services
 * Move into the directory:
-  * `cd hello-python`
-  * `cd version2`
+  * `cd cf-HelloWorld`
+  * modify the application name in manifest.yml
   * `cf push`
   
 ---
